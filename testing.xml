@@ -1,0 +1,23 @@
+<BitCamp>
+<numberOfStudents> 4 </numberOfStudents>
+<Student> 
+<firstName> Vedad </firstName>
+<lastName> Zornic </lastName>
+<age> 23 </age>
+</Student> 
+<Student> 
+<firstName> Gordan </firstName>
+<lastName> Sajevic </lastName>
+<age> 24 </age>
+</Student> 
+<Student> 
+<firstName> Ademovic </firstName>
+<lastName> Mustafa </lastName>
+<age> 21 </age>
+</Student> 
+<Student> 
+<firstName> Emir </firstName>
+<lastName> Imamovic </lastName>
+<age> 22 </age>
+</Student> 
+</BitCamp>
