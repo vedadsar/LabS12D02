@@ -23,12 +23,12 @@ public class test {
 		b.addStudent(v4);
 		b.addStudent(v3);
 		b.addStudent(v2);		
-		
+	
 		try {
 			DocumentBuilder docRead = DocumentBuilderFactory.newInstance().newDocumentBuilder();
 		    Document xmldoc = docRead.parse(new File("/Users/vedadzornic/Documents/workspace/LabS12D02/testing.xml"));
 		    System.out.println(xmldoc.getDocumentElement().getTextContent());
-		    xmldoc.
+		    
 		} catch (ParserConfigurationException e1) {			
 		}		
 		
